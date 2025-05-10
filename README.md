@@ -1,6 +1,6 @@
 # -Web-Based-Machine-Learning-System-for-Intelligent-Waste-Classification-and-Contamination-Detection
 
- This project is licensed under the [[MIT License](https://opensource.org/licenses/MIT).](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
  Intelligent Waste Classification and Contamination Detection:
 This project presents a web-based system that uses deep learning to automatically classify waste into categories like paper, plastic, metal, and glass, while also detecting visual contamination (e.g., stains or food residues). It is designed for real-time, scalable deployment in smart recycling environments.
 
